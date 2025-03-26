@@ -1,0 +1,35 @@
+{
+
+  "name": "discord-music-bot",
+
+  "version": "1.0.0",
+
+  "description": "A Discord music bot using Lavalink and Erela.js",
+
+  "main": "bot.mjs",
+
+  "type": "module",
+
+  "scripts": {
+
+    "start": "node bot.mjs"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "*",
+
+    "erela.js": "*",
+
+    "dotenv": "*",
+
+    "express": "*",
+
+    "path": "*",
+
+    "canvas": "*"
+
+  }
+
+}
